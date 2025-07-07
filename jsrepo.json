@@ -9,7 +9,7 @@
   "paths": {
     "*": "./src/blocks",
     "Animations": "./src/Animations",
-    "Components": "./components/ui",
+    "Components": "./src/Components",
     "Backgrounds": "./src/Backgrounds"
   }
 }
